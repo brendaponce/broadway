@@ -10,8 +10,8 @@ body {
 }
 #top {
   background-image: url("../images/the-flatiron-building.png");
-  width: 900;
-  height: 350;
+  width: auto;
+  height: auto;
   background-size: cover;
 }
 h1  {
@@ -35,7 +35,7 @@ h4 {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
   }
-  .footer {
+.footer {
   background-image: url("../images/the-flatiron-building.png");
   text-align: left;
 }
