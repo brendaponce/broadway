@@ -8,8 +8,10 @@ p, {
 body {
   text-align: center;
 }
-.building {
-  background-image: url("images/the-flatiron-building.png");
+#top {
+  background-image: url("../images/the-flatiron-building.png");
+  width: 900;
+  height: 350;
   background-size: cover;
 }
 h1  {
@@ -30,6 +32,10 @@ h4 {
   font-weight: bold;
 }
 .banner {
-  background-image: url("images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
+  }
+  .footer {
+  background-image: url("../images/the-flatiron-building.png");
+  text-align: left;
 }
